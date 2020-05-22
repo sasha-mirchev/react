@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/react-pr-1/static/css/main.9a7605ab.chunk.css",
+    "main.js": "/github.io/react-pr-1/static/js/main.25857995.chunk.js",
+    "main.js.map": "/github.io/react-pr-1/static/js/main.25857995.chunk.js.map",
+    "runtime-main.js": "/github.io/react-pr-1/static/js/runtime-main.768c85af.js",
+    "runtime-main.js.map": "/github.io/react-pr-1/static/js/runtime-main.768c85af.js.map",
+    "static/js/2.5f7fc2e4.chunk.js": "/github.io/react-pr-1/static/js/2.5f7fc2e4.chunk.js",
+    "static/js/2.5f7fc2e4.chunk.js.map": "/github.io/react-pr-1/static/js/2.5f7fc2e4.chunk.js.map",
+    "index.html": "/github.io/react-pr-1/index.html",
+    "precache-manifest.3b13c4387ffa51d8c12bdd12d91203fa.js": "/github.io/react-pr-1/precache-manifest.3b13c4387ffa51d8c12bdd12d91203fa.js",
+    "service-worker.js": "/github.io/react-pr-1/service-worker.js",
+    "static/css/main.9a7605ab.chunk.css.map": "/github.io/react-pr-1/static/css/main.9a7605ab.chunk.css.map",
+    "static/js/2.5f7fc2e4.chunk.js.LICENSE.txt": "/github.io/react-pr-1/static/js/2.5f7fc2e4.chunk.js.LICENSE.txt",
+    "static/media/homework_img_1.png": "/github.io/react-pr-1/static/media/homework_img_1.bac84d85.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.768c85af.js",
+    "static/js/2.5f7fc2e4.chunk.js",
+    "static/css/main.9a7605ab.chunk.css",
+    "static/js/main.25857995.chunk.js"
+  ]
+}
